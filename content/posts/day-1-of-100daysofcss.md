@@ -165,7 +165,7 @@ In this Day 1 design, I've focused on creating a visually appealing frame with t
 **You can also follow the playlist: **\
 Videos : [100DaysofCSS](https://youtube.com/playlist?list=PLm38KaFgtrqkGMSAe6wb2sUv-DlRtUGHl&si=JVk-slBUreu6A2Cx)
 
-Blog Series : [100DaysofCSS](/tags/100daysofcss/)
+Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/Devhavok.github.io/tags/100daysofcss/)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)
