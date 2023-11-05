@@ -160,12 +160,8 @@ This CSS code outlines the styles for each component of the web page, from the f
 
 In this Day 1 design, I've focused on creating a visually appealing frame with the number "100" inside it. Each part of the number is created with CSS, and the text elements are styled to complement the design.
 
-**Also watch the YouTube Video of this challenge: [Day-1](https://youtu.be/BsjxfCaDpuw)**.
 
-**You can also follow the playlist: **\
-Videos : [100DaysofCSS](https://youtube.com/playlist?list=PLm38KaFgtrqkGMSAe6wb2sUv-DlRtUGHl&si=JVk-slBUreu6A2Cx)
-
-Blog Series : [100DaysofCSS](/tags/100daysofcss/)
+Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/blogs/tags/100daysofcss)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)

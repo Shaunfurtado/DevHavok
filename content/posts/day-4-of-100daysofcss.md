@@ -167,12 +167,9 @@ These keyframes control the scaling and appearance of each circle at different p
 
 Day 4 of our 100 Days of CSS Challenge has brought us a calming loading animation. While the best websites are those that load quickly and smoothly, sometimes we need loading indicators. In those moments, a soothing loading animation like the one we've created can enhance the user experience and leave a positive impression.
 
-**Also watch the YouTube Video of this challenge: [Day-4](https://youtu.be/Ost4DhMDjHE)**.
 
-**You can also follow the playlist: **\
-Videos : [100DaysofCSS](https://youtube.com/playlist?list=PLm38KaFgtrqkGMSAe6wb2sUv-DlRtUGHl&si=JVk-slBUreu6A2Cx)
 
-Blog Series : [100DaysofCSS](/tags/100daysofcss/)
+Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/blogs/tags/100daysofcss)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)

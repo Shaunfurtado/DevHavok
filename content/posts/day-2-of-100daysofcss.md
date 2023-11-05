@@ -198,12 +198,7 @@ Remember, the key to mastering CSS is practice. Experiment with different design
 
 
 
-**Also watch the YouTube Video of this challenge: [Day-2](https://youtu.be/hdsGiJQrgvg)**.
-
-**You can also follow the playlist: **\
-Videos : [100DaysofCSS](https://youtube.com/playlist?list=PLm38KaFgtrqkGMSAe6wb2sUv-DlRtUGHl&si=JVk-slBUreu6A2Cx)
-
-Blog Series : [100DaysofCSS](/tags/100daysofcss/)
+Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/blogs/tags/100daysofcss)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)
