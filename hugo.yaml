@@ -1,0 +1,46 @@
+baseURL: https://www.example.org/
+languageCode: en-us
+title: DevHavok
+copyright: © DevHavok
+pygmentsstyle: monokai
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+disqusShortname: yourDisqusShortname
+paginate: 3
+params:
+  mode: light
+  useCDN: false
+  subtitle: 'The Place Where Development Meets Chaos'
+  mathjax: true
+  katex: true
+  social:
+    - name: GitHub
+      icon: github
+      url: https://github.com/Shaunfurtado/
+    # - name: Twitter
+    #   icon: twitter
+    #   url: https://twitter.com/
+    # - name: GitLab
+    #   icon: gitlab
+    #   url: https://gitlab.com/
+    - name: RSS
+      icon: rss
+      url: /index.xml
+    
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blogs
+      url: /posts
+      weight: 2
+    - name: Projects
+      url: /projects
+      weight: 3
+    - name: About Me
+      url: /about
+      weight: 4
+    - name: Tags
+      url: /tags
+      weight: 5
