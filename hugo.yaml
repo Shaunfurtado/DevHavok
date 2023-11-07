@@ -7,6 +7,9 @@ pygmentscodefences: true
 pygmentscodefencesguesssyntax: true
 disqusShortname: yourDisqusShortname
 paginate: 5
+services:
+  googleAnalytics:
+    googleAnalytics: G-Q7PY9RXSJQ
 params:
   mode: light
   useCDN: false
