@@ -343,11 +343,11 @@ Blog Series : [100DaysofCSS](/tags/100daysofcss)
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)
 - YouTube: [YouTube](https://www.youtube.com/channel/UC66ahSH1xpBBlaMBP8lNuBg)
 - CodePen: [CodePen](https://codepen.io/Shaun-Furtado)
-- Blog: [BearBlog](https://devhavok.bearblog.dev/)
+- Blog: [DevHavok](https://devhavok.is-a.dev/)
 
 
 Stay tuned for my daily updates in the "100 Days of CSS" challenge as I explore and create new and exciting designs.
 
 Happy coding, and see you on Day 5! 🚀
 
-*Keep up with the [DevHavok](https://devhavok.bearblog.dev/) for more
+*Keep up with the [DevHavok](https://devhavok.is-a.dev/) for more

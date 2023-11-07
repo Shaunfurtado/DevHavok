@@ -6,23 +6,23 @@ pygmentsstyle: monokai
 pygmentscodefences: true
 pygmentscodefencesguesssyntax: true
 disqusShortname: yourDisqusShortname
-paginate: 3
+paginate: 5
 params:
-  mode: light
+  mode: dark
   useCDN: false
-  subtitle: 'The Place Where Development Meets Chaos'
+  subtitle: 'The Place Where Development Meets Havok'
   mathjax: true
   katex: true
   social:
     - name: GitHub
       icon: github
       url: https://github.com/Shaunfurtado/
-    # - name: Twitter
-    #   icon: twitter
-    #   url: https://twitter.com/
-    # - name: GitLab
-    #   icon: gitlab
-    #   url: https://gitlab.com/
+    - name: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/shaun-furtado-16579722b/
+    - name: YouTube
+      icon: youtube
+      url: https://www.youtube.com/channel/UC66ahSH1xpBBlaMBP8lNuBg
     - name: RSS
       icon: rss
       url: /index.xml
@@ -38,9 +38,10 @@ menu:
     - name: Projects
       url: /projects
       weight: 3
-    - name: About Me
-      url: /about
-      weight: 4
     - name: Tags
       url: /tags
+      weight: 4
+    - name: About Me
+      url: /about
       weight: 5
+
