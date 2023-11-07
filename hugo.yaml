@@ -11,7 +11,7 @@ services:
   googleAnalytics:
     googleAnalytics: G-Q7PY9RXSJQ
 params:
-  mode: light
+  mode: toggle
   useCDN: false
   subtitle: 'The Place Where Development Meets Havok'
   description: 'A blog about programming, technology, and other things that interest me.'

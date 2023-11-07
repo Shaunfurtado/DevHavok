@@ -154,13 +154,6 @@
       margin-top: 2em;
       
     }
-    /* 
-    h1::before { color: var(--maincolor); content: '# '; }
-    h2::before { color: var(--maincolor); content: '## '; }
-    h3::before { color: var(--maincolor); content: '### '; }
-    h4::before { color: var(--maincolor); content: '#### '; }
-    h5::before { color: var(--maincolor); content: '##### '; }
-    h6::before { color: var(--maincolor); content: '###### '; } */
     
     .meta {
       color: #999;
@@ -342,4 +335,15 @@
       border: 1px solid #dfe2e5;
       font-size: 1em;
     }
-    
+    .utterances{
+      max-width: 100%;
+      margin: 0 auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 26px;
+    }
+    .utterances-frame{
+      max-width: 100%;
+      margin: 0 auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 16px;
+    }
