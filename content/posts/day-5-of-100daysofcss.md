@@ -329,7 +329,7 @@ These CSS styles help us create a visually pleasing statistic report with a prof
 
 ### Result
 
-![Bear Image](https://i.imgur.com/6oVEhCf.png)
+![Bear Image](https://i.imgur.com/6oVEhCf.png=300x200)
 
 
 ## Conclusion

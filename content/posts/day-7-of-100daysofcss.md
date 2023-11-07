@@ -339,7 +339,7 @@ These JavaScript interactions enable users to toggle the search bar and menu wit
 
 ### Result
 
-![Bear Image](https://i.imgur.com/5xFv7bu.png)
+![Bear Image](https://i.imgur.com/5xFv7bu.png=300x200)
 
 As a result of this design, you have a compact yet functional user interface that combines notifications, search, and a menu icon in the smallest possible space.
 

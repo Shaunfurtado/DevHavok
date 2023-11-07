@@ -14,6 +14,7 @@ params:
   mode: light
   useCDN: false
   subtitle: 'The Place Where Development Meets Havok'
+  description: 'A blog about programming, technology, and other things that interest me.'
   mathjax: true
   katex: true
   social:

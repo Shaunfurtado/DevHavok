@@ -154,7 +154,7 @@ Now, let's delve into the CSS code responsible for the visual styling:
 }
 ```
 ### Result
-![Bear Image](https://imgur.com/ddVLyE7.jpg)
+![Bear Image](https://imgur.com/ddVLyE7.jpg=300x200)
 
 This CSS code outlines the styles for each component of the web page, from the frame to the individual number shapes and text elements.
 

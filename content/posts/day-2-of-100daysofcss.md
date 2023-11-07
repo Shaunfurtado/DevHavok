@@ -187,7 +187,7 @@ button.addEventListener("click", () => {
 ```
 #### Result
 
-![Bear Image](https://i.imgur.com/nbk22gS.png)
+![Bear Image](https://i.imgur.com/nbk22gS.png=300x200)
 In this code, we've added a hover effect to our menu icon bars. When a user hovers over them, they'll expand slightly, creating a visually appealing animation.
 
 ### Final Thoughts

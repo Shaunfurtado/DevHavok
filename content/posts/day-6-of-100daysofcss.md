@@ -223,7 +223,7 @@ The CSS code defines various styles for each component of the profile card, ensu
 
 ### Result
 
-![Bear Image](https://i.imgur.com/oyU8hvc.png)
+![Bear Image](https://i.imgur.com/oyU8hvc.png=300x200)
 
 ## Final Thoughts
 Creating a profile card is a great way to practice your CSS skills, and this challenge provides a creative and stylish design. You can use this as a starting point and customize it to match your own profile or website. Remember, the key to mastering CSS is practice and experimentation, so don't hesitate to make changes and explore new ideas.
