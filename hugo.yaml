@@ -8,7 +8,7 @@ pygmentscodefencesguesssyntax: true
 disqusShortname: yourDisqusShortname
 paginate: 5
 params:
-  mode: dark
+  mode: light
   useCDN: false
   subtitle: 'The Place Where Development Meets Havok'
   mathjax: true
