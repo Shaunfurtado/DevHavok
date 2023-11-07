@@ -350,4 +350,4 @@ Stay tuned for my daily updates in the "100 Days of CSS" challenge as I explore 
 
 Happy coding, and see you on Day 5! 🚀
 
-*Keep up with the [DevHavok](https://devhavok.is-a.dev/) for more
+*Keep up with the [DevHavok](https://devhavok.is-a.dev/) for more content.*
