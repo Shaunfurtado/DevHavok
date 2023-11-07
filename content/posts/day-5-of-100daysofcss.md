@@ -337,7 +337,7 @@ These CSS styles help us create a visually pleasing statistic report with a prof
 In a world filled with numbers and data, the ability to present statistics beautifully is a valuable skill. Our Day 5 project in the 100 Days of CSS Challenge showcases a Weekly Report with elegant design elements, including a graph, legend, and days of the week. With the right combination of HTML structure and CSS styles, you can transform dry data into captivating and informative statistics.
 
 
-Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/blogs/tags/100daysofcss)
+Blog Series : [100DaysofCSS](/tags/100daysofcss)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)

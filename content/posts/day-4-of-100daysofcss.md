@@ -169,7 +169,7 @@ Day 4 of our 100 Days of CSS Challenge has brought us a calming loading animatio
 
 
 
-Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/blogs/tags/100daysofcss)
+Blog Series : [100DaysofCSS](/tags/100daysofcss)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)

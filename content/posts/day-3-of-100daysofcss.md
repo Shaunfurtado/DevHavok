@@ -267,7 +267,7 @@ These animations work together to create the mesmerizing Pyramid animation.
 Day 3 of our 100 Days of CSS challenge brings us the Pyramid animation project. While it may not be as challenging as constructing the real pyramids, it demonstrates the power of CSS to create captivating and dynamic visuals with relatively simple code.
 
 
-Blog Series : [100DaysofCSS](https://shaunfurtado.is-a.dev/blogs/tags/100daysofcss)
+Blog Series : [100DaysofCSS](/tags/100daysofcss)
 
 **Follow me on other platforms for more content:**
 - GitHub: [GitHub](https://github.com/Shaunfurtado/100daysofCSS)
