@@ -160,7 +160,7 @@ These keyframes control the scaling and appearance of each circle at different p
 
 ### Result
 
-![Bear Image](https://i.imgur.com/Iv73Tr4.png=300x200)
+![Bear Image](https://i.imgur.com/frmVfSz.gif)
 
 
 ## Conclusion

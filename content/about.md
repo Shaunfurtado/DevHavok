@@ -1,5 +1,5 @@
 +++
-title = "About Post"
+title = "About Me"
 linktitle = "about"
 date = 2023-11-04T18:08:23+05:30
 draft = false

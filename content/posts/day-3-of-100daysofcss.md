@@ -259,7 +259,7 @@ These animations work together to create the mesmerizing Pyramid animation.
 
 ### Result
 
-![Bear Image](https://i.imgur.com/rPPq3Bw.png=300x200)
+![Bear Image](https://i.imgur.com/jGQgN13.gif)
 
 
 ## Conclusion
