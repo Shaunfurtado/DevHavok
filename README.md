@@ -1,2 +1,2 @@
-# Devhavok.is-a.dev
-My Personal Blog
+# Devhavok
+My Personal Blog [Devhavok](devhavok.is-a.dev)
