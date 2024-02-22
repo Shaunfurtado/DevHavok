@@ -109,4 +109,6 @@ If you're using WSL2 and need GUI support, follow these steps:
 
 You've successfully installed NS2 on your Linux system or WSL2. With NS2, you can simulate various network scenarios and protocols for research or educational purposes. If you encounter any issues during the installation process, feel free to ask for further assistance.
 
-Happy networking! 🌐
+Keep coding and stay creative! 🚀
+
+*Stay tuned with [DevHavok](https://devhavok.is-a.dev/) for more exciting content.*
