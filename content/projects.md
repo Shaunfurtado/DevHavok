@@ -5,6 +5,7 @@ date = 2023-10-01T18:08:23+05:30
 draft = false
 +++
 
+- [Code Blogs - a nano blog built using MERN stack, where i post my CP solutions with Other important notes to track my journey](https://shaunfurtado.is-a.dev/code_blogs/)
 - [Decentralized Chat App - **Under Development**]()
 - [Flow Chain - Web3 based Supply Chain Management with QR Codes and Ethereum Blockchain](https://shaunfurtado.is-a.dev/WEb3-based-supply-chain-management-system/)
 - [AnonBox - Realtime React chat app with Firebase storage](https://shaunfurtado.is-a.dev/AnonBox/)
