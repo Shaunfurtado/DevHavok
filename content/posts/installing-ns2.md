@@ -16,7 +16,7 @@ Before installing NS2, we need to ensure that all necessary dependencies are met
 ### Install `nam`
 
 First, let's install `nam`, the Network Animator tool:
- - Download the suitable nam installer from [this link](https://github.com/MJKSabit/ns2-installation). After downloading, run the following command::
+ - Download the suitable nam installer from [this link](https://www.linuxquestions.org/questions/linux-newbie-8/ns-stop-couldn%27t-execute-nam-permission-denied-while-executing-exec-nam-4175524760/#2). After downloading, run the following command::
 
 ```bash
 sudo dpkg -i FILE_NAME
@@ -64,7 +64,7 @@ sudo apt install libx11-dev xorg-dev
 ### Install NS2
 
 Download the NS2 installer and unzip it:
--  Download the installer from [this link](https://github.com/MJKSabit/ns2-installation).
+-  Download the installer from [this link](https://drive.google.com/file/d/0B7S255p3kFXNVVlxR0ZNRGVORjQ/view?resourcekey=0-EyPhoScBFDb7ul0VFk6FZQ).
 ```bash
 tar xvf ns-allinone-2.35_gcc5.tar.gz
 cd ns-allinone-2.35/
