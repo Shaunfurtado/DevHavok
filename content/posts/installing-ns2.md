@@ -100,7 +100,7 @@ If you're using WSL2 and need GUI support, follow these steps:
 
 ### GWSL Setup
 
-1. Download GWSL from [this link](https://github.com/MJKSabit/ns2-installation) from their official github repository.
+1. Download GWSL from [this link](https://github.com/MJKSabit/ns2-installation/releases/download/GWSL/GWSL.Traditional.140.release.x64.exe) from their official github repository.
 2. Install GWSL and run it.
 3. Allow GWSL through the Windows Firewall.
 4. Enable Display / Audio Auto Exporting.
