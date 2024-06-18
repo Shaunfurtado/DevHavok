@@ -5,11 +5,12 @@ date = 2023-10-01T18:08:23+05:30
 draft = false
 +++
 
-- [Code Blogs - a nano blog built using MERN stack, where i post my CP solutions with Other important notes to track my journey](https://shaunfurtado.is-a.dev/code_blogs/)
+- [ConferEase - Anonymous web conferencing platform (Under Development)]()
+- [Code Blogs - a nano blog built using MERN stack, where i post my CP solutions with Other important notes to track my journey](https://code-trek.vercel.app/)
 - [Decentralized Chat App - **Under Development**]()
 - [Flow Chain - Web3 based Supply Chain Management with QR Codes and Ethereum Blockchain](https://shaunfurtado.is-a.dev/WEb3-based-supply-chain-management-system/)
-- [AnonBox - Realtime React chat app with Firebase storage](https://shaunfurtado.is-a.dev/AnonBox/)
-- [Personal Portfolio - **Under development**](https://shaunfurtado.is-a.dev/)
+- [AnonBox - Realtime React chat app with Firebase](https://shaunfurtado.is-a.dev/AnonBox/)
+- [Personal Portfolio - Built With Next.js, Tailwind CSS](https://shaunfurtado.is-a.dev/)
 - [DevHavok - This Blogging site Built with Hugo SSG](https://devhavok.is-a.dev/)
 - [MotionCut Web Development Internship]()
     - [Digital Dynamo - A Business Website](https://shaunfurtado.is-a.dev/MotionCut/Digital%20Dynamo/)
