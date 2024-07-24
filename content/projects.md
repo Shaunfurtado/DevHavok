@@ -5,9 +5,9 @@ date = 2023-10-01T18:08:23+05:30
 draft = false
 +++
 
-- [ConferEase - Anonymous web conferencing platform (Under Development)]()
+- [ConferEase - Anonymous web conferencing platform](https://shaunfurtado.is-a.dev/ConferEase/)
+- [Fitness Tracker - A fitness tracker designed to monitor and record daily physique updates.](https://github.com/Shaunfurtado/fitness_tracker)
 - [Code Blogs - a nano blog built using MERN stack, where i post my CP solutions with Other important notes to track my journey](https://code-trek.vercel.app/)
-- [Decentralized Chat App - **Under Development**]()
 - [Flow Chain - Web3 based Supply Chain Management with QR Codes and Ethereum Blockchain](https://shaunfurtado.is-a.dev/WEb3-based-supply-chain-management-system/)
 - [AnonBox - Realtime React chat app with Firebase](https://shaunfurtado.is-a.dev/AnonBox/)
 - [Personal Portfolio - Built With Next.js, Tailwind CSS](https://shaunfurtado.is-a.dev/)
