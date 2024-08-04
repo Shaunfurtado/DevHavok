@@ -25,3 +25,16 @@ draft = false
 - [Hotel Management System using Flask and MySQL](https://shaunfurtado.is-a.dev/Hotel-Management_Flask/)
 - [KickStartUp - A Blogging app Built with Vue.js and Firebase](https://shaunfurtado.is-a.dev/KickStartUp-Hack/)
 - [Text Editor Using Java](https://shaunfurtado.is-a.dev/JAVA-GUI-project/)
+
+## Upcoming
+- [Live Location Tracker]()
+- [C++ CLI Animator]()
+- [Reverse Proxy Tunneling]()
+- [Nostr Chat Plugin]()
+- [Server Mangement Tool (Self - Hosted)]()
+- [Media Drive Server]()
+- [Telegram PasteBin Bot]()
+- [Self Contained CPP IDE ]()
+- [Procedural Rendered Map]()
+- [Infinite Canvas With Md Graph]()
+- [UI Library]()
