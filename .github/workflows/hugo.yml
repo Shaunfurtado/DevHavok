@@ -48,9 +48,6 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      # Create CNAME file with custom domain
-      - name: Create CNAME file
-        run: echo "blog.shaunfurtado.is-a.dev" > ./public/CNAME
         
       - name: Build with Hugo
         env:
@@ -61,6 +58,9 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      # Create CNAME file with custom domain
+      - name: Create CNAME file
+        run: echo "blog.shaunfurtado.is-a.dev" > ./public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
